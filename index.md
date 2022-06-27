@@ -135,6 +135,7 @@
 
 для создания новой ветки нужно ввести команду 
 
+<<<<<<< HEAD
     git branch "branch name"
 
 ## Коммит изменений
@@ -143,3 +144,6 @@
 
     git commin -m "commit massage"
 
+=======
+    git branch "branch name"
+>>>>>>> branch-creation
